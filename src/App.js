@@ -1,9 +1,10 @@
 import React from 'react'
-
+import Facebook from './Component/Facebook'
+import './App.css'
 const App = () => {
   return (
     <div>
-      <h2>Welcome</h2>
+      <Facebook/>
     </div>
   )
 }
